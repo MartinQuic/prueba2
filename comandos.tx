@@ -1,0 +1,16 @@
+1. python -m venv --para crear un paquete nuevo
+2. pip freeze -- para visualizar qué paquetes están instalados.
+3. python app.py  -- para ejecutar un programa python, solo hay que cambiarle al nombre del programa
+4. pip install python-dateutil  -- para instalar algún programa o paquete
+5. env\scripts\activate -- para activar el entorno virtual ENV
+6. deactivate  -para desactivar el entorno virtual ENV
+7. Set-ExecutionPolicy Unrestricted  -- ejecutar como administrador en windows power shell para poder utilizarlo en vscode
+8. Set-ExecutionPolicy Restricted  -- para proteger nuevamente el equipo.
+9. Get-ExecutionPolicy  -- para ver cómo está configurado power shell -Protegido  o no
+10. cd ..   --para retroceder una carpeta desde la terminal
+11. cd ../../../  -- para retroceder varios niveles de carpeta.
+12. 
+
+
+
+
